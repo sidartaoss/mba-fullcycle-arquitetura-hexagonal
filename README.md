@@ -116,4 +116,5 @@ O problema é que o pacote não adiciona algumas restrições necessárias, como
 Para tanto, a próxima versão da aplicação deve contar, também, com uma adaptação para _Clean Architecture_, que possui uma preocupação maior na separação das camadas da aplicação, de maneira a expor uma arquitetura gritante (_Screaming Architecture_).
 
 Referências
+
 MBA ARQUITETURA FULL CYCLE. Arquitetura Hexagonal e Clean Architecture. 2023. Disponível em: https://plataforma.fullcycle.com.br. Acesso em: 13 set. 2023.
